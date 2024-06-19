@@ -1,8 +1,6 @@
-# EHRSHOT Website
+# MedConceptsQA Website
 
-Public website for EHRSHOT.
-
-URL: [https://ehrshot.stanford.edu/](https://ehrshot.stanford.edu/)
+Public website for MedConceptsQA.
 
 ## Setup
 
