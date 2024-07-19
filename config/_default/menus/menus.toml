@@ -1,9 +1,1 @@
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 10
 
-[[main]]
-  name = "Leaderboard"
-  url = "leaderboard/"
-  weight = 30
